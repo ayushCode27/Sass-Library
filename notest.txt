@@ -1,0 +1,5 @@
+- Order of sass import files on index.scss does matter. Sass compiler, compiles from top to bottom.
+- "_" before scss files, we are creating a partial, telling sass compiler not to compile code inside it to separate css
+- using *.scss we are telling compiler that any file with scss extension need to be compiled into separate css file.
+- '$' - Sass variable
+- using scss file in link will work, but only valid css will be recognized.
