@@ -5,4 +5,5 @@
 - using scss file in link will work, but only valid css will be recognized.
 - we can use '/' in variables, for css property we need "@use 'sass:math'" package and math.div(dividend, divisor)
 - for debugging we can use "@debug expression"
+- We can use loops 'in' and 'for' to iterate over maps.
  
