@@ -6,4 +6,5 @@
 - we can use '/' in variables, for css property we need "@use 'sass:math'" package and math.div(dividend, divisor)
 - for debugging we can use "@debug expression"
 - We can use loops 'in' and 'for' to iterate over maps.
- 
+- use '@if' and'@else' to apply conditions.
+- use '&:hover' for pseudo classes. 
