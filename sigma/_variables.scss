@@ -10,6 +10,8 @@ $colors: (
   'secondary': $secondary,
   'error': $error,
   'info': $info,
+  'black': black,
+  'white': white,
 );
 
 // @debug map-get($map: $colors, $key: 'secondary');
