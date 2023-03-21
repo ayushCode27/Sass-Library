@@ -3,9 +3,10 @@
 - using *.scss we are telling compiler that any file with scss extension need to be compiled into separate css file.
 - '$' - Sass variable
 - using scss file in link will work, but only valid css will be recognized.
-- we can use '/' in variables, for css property we need "@use 'sass:math'" package and math.div(dividend, divisor)
-- for debugging we can use "@debug expression"
-- We can use loops 'in' and 'for' to iterate over maps.
-- use '@if' and'@else' to apply conditions.
-- use '&:hover' for pseudo classes.
+- we can use '/' a division operator in variables, for css property we need "@use 'sass:math'" package and math.div(dividend, divisor)
+- debugging = we can use "@debug expression"
+- loops = 'in' and 'for' to iterate over maps.
+- conditions = '@if' and'@else'
+- pseudo classes = '&:hover'
 - mixins = "@mixin btn(){}" - to bound number of properties together, we can also pass arguments
+- functions = '@function' for defining function, take input provides output (for calculations).
