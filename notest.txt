@@ -7,4 +7,5 @@
 - for debugging we can use "@debug expression"
 - We can use loops 'in' and 'for' to iterate over maps.
 - use '@if' and'@else' to apply conditions.
-- use '&:hover' for pseudo classes. 
+- use '&:hover' for pseudo classes.
+- mixins = "@mixin btn(){}" - to bound number of properties together, we can also pass arguments
