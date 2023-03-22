@@ -10,3 +10,4 @@
 - pseudo classes = '&:hover'
 - mixins = "@mixin btn(){}" - to bound number of properties together, we can also pass arguments
 - functions = '@function' for defining function, take input provides output (for calculations).
+- media query = @content;
