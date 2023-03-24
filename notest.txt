@@ -12,3 +12,5 @@
 - functions = '@function' for defining function, take input provides output (for calculations).
 - media query = @content;
 - list = comma separated values
+- @extend = apply same css rules to different classes 
+- %placeholder rules = will not be compiled into Css.
