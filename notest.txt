@@ -14,3 +14,4 @@
 - list = comma separated values
 - @extend = apply same css rules to different classes 
 - %placeholder rules = will not be compiled into Css.
+- !default = value if not already declared (for overriding variables)
